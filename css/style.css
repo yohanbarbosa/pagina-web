@@ -1,0 +1,11 @@
+body {
+    background-color: darkgrey;
+};
+
+img>{ 
+    width: 200px;
+    height: 200px ;
+}
+tr:hover{
+    background-color: #00ffff;
+}
